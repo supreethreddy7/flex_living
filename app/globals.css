@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root { color-scheme: light; }
+html, body { height: 100%; background: theme('colors.flex.bg'); color: theme('colors.flex.ink'); }
+.container { @apply mx-auto max-w-7xl px-4; }
+.card { @apply bg-white shadow-sm rounded-2xl border border-black/5; }
+.btn { @apply inline-flex items-center gap-2 rounded-2xl px-4 py-2 border border-black/10 shadow-sm hover:shadow transition; }
+.input { @apply rounded-xl border border-black/10 px-3 py-2 w-full bg-white; }
+.badge { @apply inline-flex items-center rounded-full px-2 py-1 text-xs bg-black/5; }

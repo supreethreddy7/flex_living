@@ -1,0 +1,4 @@
+{
+  "/api/reviews/hostaway/route": "app/api/reviews/hostaway/route.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}

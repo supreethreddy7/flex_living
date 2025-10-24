@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 7453,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Shane and family are wonderful! Would definitely host again :)",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2020-08-21 22:45:14",
+      "guestName": "Shane Finkelstein",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "listingId": "2B-N1-A",
+      "channel": "airbnb"
+    },
+    {
+      "id": 8120,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Lovely flat, spotless and close to the tube. Street can be a bit lively on weekends.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "location",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2023-09-05 10:12:00",
+      "guestName": "Maria G.",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "listingId": "2B-N1-A",
+      "channel": "airbnb"
+    },
+    {
+      "id": 9001,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 2,
+      "publicReview": "Check-in was confusing and Wi\u2011Fi dropped a lot.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 5
+        },
+        {
+          "category": "accuracy",
+          "rating": 6
+        },
+        {
+          "category": "value",
+          "rating": 5
+        }
+      ],
+      "submittedAt": "2024-03-15 18:22:17",
+      "guestName": "Ethan R.",
+      "listingName": "3C W2 B - Paddington Loft",
+      "listingId": "3C-W2-B",
+      "channel": "booking"
+    }
+  ]
+}
